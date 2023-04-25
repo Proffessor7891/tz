@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tz/static/css/main.4f838423.css",
+    "main.js": "/tz/static/js/main.2511f7b3.js",
+    "static/js/253.e90e7a52.chunk.js": "/tz/static/js/253.e90e7a52.chunk.js",
+    "static/media/Mystery_sound.mp3": "/tz/static/media/Mystery_sound.139def9cb449c73af927.mp3",
+    "static/media/Win_sound_4.mp3": "/tz/static/media/Win_sound_4.37edba99664c038a860b.mp3",
+    "static/media/Lose_sound_3.mp3": "/tz/static/media/Lose_sound_3.14748318ea8ceccdd6df.mp3",
+    "static/media/Win_sound_1.mp3": "/tz/static/media/Win_sound_1.400ee75259c8bddd86bb.mp3",
+    "static/media/Win_sound_2.mp3": "/tz/static/media/Win_sound_2.df5c1eb6b2ece2b86fea.mp3",
+    "static/media/Win_sound_3.mp3": "/tz/static/media/Win_sound_3.2179e0f8cf8c4773f1b4.mp3",
+    "static/media/Lose_sound_1.mp3": "/tz/static/media/Lose_sound_1.b91ea346b8a9663ac745.mp3",
+    "static/media/Lose_sound_4.mp3": "/tz/static/media/Lose_sound_4.0e6add6213feaeda36c2.mp3",
+    "static/media/Lose_sound_2.mp3": "/tz/static/media/Lose_sound_2.0c406a20892a023c5a5e.mp3",
+    "static/media/notification.svg?s3g3t9": "/tz/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/discord-icon-svgrepo-com.svg": "/tz/static/media/discord-icon-svgrepo-com.b4461e65d119ff614af2fcffbeb4367a.svg",
+    "static/media/notification.eot": "/tz/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/tz/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/tz/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "static/media/twitter-svgrepo-com.svg": "/tz/static/media/twitter-svgrepo-com.230b7cc923c6751ef94269b8d6374beb.svg",
+    "index.html": "/tz/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4f838423.css",
+    "static/js/main.2511f7b3.js"
+  ]
+}
